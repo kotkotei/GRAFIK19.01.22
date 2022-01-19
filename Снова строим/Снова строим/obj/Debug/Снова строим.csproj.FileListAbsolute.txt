@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\Снова строим\Снова строим\bin\Debug\Снова строим.exe.config
+C:\Users\1\source\repos\Снова строим\Снова строим\bin\Debug\Снова строим.exe
+C:\Users\1\source\repos\Снова строим\Снова строим\bin\Debug\Снова строим.pdb
+C:\Users\1\source\repos\Снова строим\Снова строим\obj\Debug\Снова строим.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Снова строим\Снова строим\obj\Debug\Снова_строим.Form1.resources
+C:\Users\1\source\repos\Снова строим\Снова строим\obj\Debug\Снова_строим.Properties.Resources.resources
+C:\Users\1\source\repos\Снова строим\Снова строим\obj\Debug\Снова строим.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Снова строим\Снова строим\obj\Debug\Снова строим.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Снова строим\Снова строим\obj\Debug\Снова строим.exe
+C:\Users\1\source\repos\Снова строим\Снова строим\obj\Debug\Снова строим.pdb
